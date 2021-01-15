@@ -1,0 +1,21 @@
+{
+  "tags": [
+    "tutorial"
+  ],
+  "title": "Chrome Extension PubSub",
+  "urlName": "chrome-extension-pubsub",
+  "contentFilename": "entry.md",
+  "keywords": [
+    "Chrome Extension",
+    "HTML",
+    "HTML5",
+    "CSS",
+    "CSS3",
+    "JavaScript",
+    "Tutorial"
+  ],
+  "format": "github-flavored-markdown",
+  "id": 4,
+  "timestamp": "2014-08-30T22:35:24Z",
+  "visibility": "public"
+}

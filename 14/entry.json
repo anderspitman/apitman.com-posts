@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "microblog",
+    "libfuse",
+    "fuse",
+    "debugging"
+  ],
+  "title": "Compiling libfuse examples",
+  "urlName": "compiling-libfuse-examples",
+  "format": "github-flavored-markdown",
+  "contentFilename": "entry.md",
+  "id": 14,
+  "timestamp": "2019-10-02",
+  "visibility": "public"
+}

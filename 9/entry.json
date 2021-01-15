@@ -1,0 +1,13 @@
+{
+  "tags": [
+    "tutorial"
+  ],
+  "title": "Make You a Static Site Generator",
+  "urlName": "make-static-site-generator",
+  "format": "github-flavored-markdown",
+  "contentFilename": "entry.md",
+  "publish": false,
+  "id": 9,
+  "timestamp": "2018-06-26",
+  "visibility": "public"
+}

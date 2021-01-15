@@ -1,0 +1,14 @@
+{
+  "tags": [
+    "microblog",
+    "64.ms",
+    "performance"
+  ],
+  "title": "The 64 Milliseconds Manifesto",
+  "urlName": "64-ms",
+  "format": "github-flavored-markdown",
+  "contentFilename": "entry.md",
+  "id": 13,
+  "timestamp": "2019-09-24",
+  "visibility": "public"
+}

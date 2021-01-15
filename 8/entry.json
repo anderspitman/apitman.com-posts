@@ -1,0 +1,12 @@
+{
+  "tags": [
+    "tutorial"
+  ],
+  "title": "Deploying a Static Rust App in a Barebones Docker Container",
+  "urlName": "rust-docker-barebones",
+  "format": "github-flavored-markdown",
+  "contentFilename": "entry.md",
+  "id": 8,
+  "timestamp": "2018-06-19",
+  "visibility": "public"
+}

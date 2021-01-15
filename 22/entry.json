@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "virtual dom",
+    "80/20",
+    "frameworks",
+    "javascript"
+  ],
+  "title": "In Search of a Production-Quality JavaScript Framework",
+  "urlName": "production-quality-js-framework",
+  "format": "github-flavored-markdown",
+  "contentFilename": "entry.md",
+  "id": 22,
+  "timestamp": "2020-05-07",
+  "visibility": "public"
+}

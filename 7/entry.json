@@ -1,0 +1,12 @@
+{
+  "tags": [
+    "tutorial"
+  ],
+  "title": "Making a 100% Statically-Linked, Single-File Web App with React and Rust",
+  "urlName": "static-react-rust-webapp",
+  "format": "github-flavored-markdown",
+  "contentFilename": "entry.md",
+  "id": 7,
+  "timestamp": "2018-04-04",
+  "visibility": "public"
+}

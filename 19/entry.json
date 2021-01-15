@@ -1,0 +1,13 @@
+{
+  "tags": [
+    "netcat",
+    "simplicity"
+  ],
+  "title": "This site is now browsable with netcat/plain TCP",
+  "urlName": "netcatable",
+  "format": "github-flavored-markdown",
+  "contentFilename": "entry.md",
+  "id": 19,
+  "timestamp": "2020-01-20",
+  "visibility": "public"
+}

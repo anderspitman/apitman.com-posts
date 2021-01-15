@@ -1,0 +1,14 @@
+{
+  "tags": [
+    "hacker news",
+    "plain text",
+    "simplicity"
+  ],
+  "title": "This site is now browsable with cURL",
+  "urlName": "curlable",
+  "format": "github-flavored-markdown",
+  "contentFilename": "entry.md",
+  "id": 17,
+  "timestamp": "2020-01-14",
+  "visibility": "public"
+}

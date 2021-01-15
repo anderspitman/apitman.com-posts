@@ -1,0 +1,13 @@
+{
+  "tags": [
+    "moosedrive",
+    "dependencies"
+  ],
+  "title": "Before You Reach For That Dependency",
+  "urlName": "dependencies",
+  "format": "github-flavored-markdown",
+  "contentFilename": "entry.md",
+  "id": 11,
+  "timestamp": "2019-09-27",
+  "visibility": "public"
+}
