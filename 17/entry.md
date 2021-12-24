@@ -1,3 +1,5 @@
+**Update:** The insanity has gone even deeper and this site is now [browsable using plain TCP][3].
+
 TL;DR - This site is now browsable from the command line using cURL. Give it
 a try:
 
@@ -140,3 +142,5 @@ prefer?
 [1]: https://news.ycombinator.com/item?id=22038065 
 
 [2]: https://www.theverge.com/2018/12/6/18128648/microsoft-edge-chrome-chromium-browser-changes
+
+[3]: https://apitman.com/19/#netcatable
